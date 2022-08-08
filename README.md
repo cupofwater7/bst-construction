@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # bst-construction
 
+Difficulty: medium
 
   Write a BST  class for a Binary Search Tree. The class should support:
   * Inserting values with the insert  method.
